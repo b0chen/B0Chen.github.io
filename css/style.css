@@ -1,0 +1,23 @@
+body {
+  background-image: url("18767.jpg");  
+  background-color: azure;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+h1 {
+  color: black;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  margin-left: 20px;
+}
+p  {
+  color: navy;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 160%;
+}
+ol  {
+  background-color: azure;
+}
+ul  {
+  background-color: azure;
+
+}
